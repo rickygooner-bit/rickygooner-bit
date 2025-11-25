@@ -40,17 +40,8 @@ I enjoy building **Minecraft abilities, plugins, and modded systems**, as well a
 
 ## 📈 GitHub Stats
 
-### Activity Overview
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rickygooner-bit&show_icons=true&theme=tokyonight&hide_border=true)
-
-### Most Used Languages
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rickygooner-bit&layout=compact&theme=tokyonight&hide_border=true)
-
 ### Achievements / Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rickygooner-bit&theme=tokyonight&row=1&column=6&margin-w=10&margin-h=10)
-
-### Contribution Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rickygooner-bit&theme=tokyonight&hide_border=true)
 
 ---
 
