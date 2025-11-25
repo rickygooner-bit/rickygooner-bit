@@ -10,9 +10,13 @@ I also code in **Python, HTML/CSS**, and I like experimenting with **AI — auto
 
 I enjoy building **Minecraft abilities, plugins, and modded systems**, as well as random projects that shouldn’t exist but absolutely do.
 
+---
+
 ### 💬 Find me here:
 - **YouTube:** [@qifnnmc](https://www.youtube.com/@qifnnmc)  
 - **Patreon:** [Support my work](https://patreon.com/cw/qifnn)
+- **Email:** 📧 `kugelhopf.german@gmail.com`
+- **Discord:** 💬 `1.8duck`
 
 ---
 
@@ -40,7 +44,7 @@ I enjoy building **Minecraft abilities, plugins, and modded systems**, as well a
 
 ## 📈 GitHub Stats
 
-### Achievements / Trophies
+### 🏆 Achievements / Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rickygooner-bit&theme=tokyonight&row=1&column=6&margin-w=10&margin-h=10)
 
 ---
