@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I’m **Ricky**, a game designer and coder based in Australia.
+I’m **Marty**, a game designer and coder based in Australia.
 
 I design and build whatever comes to mind.  
 If an idea hits me, I’ll prototype it, break it, rebuild it, and ship it.
