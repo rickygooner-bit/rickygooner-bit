@@ -5,6 +5,12 @@ If an idea hits me, I’ll prototype it, break it, rebuild it, and ship it.
 
 ---
 
+## 👾 Current Quest
+I'm currently **learning Game Development**. 
+I'm trying to make games from Scratch and copy other peoples code and imrpoving it. Someone teach me to make characters/textures 😭
+
+---
+
 ## 🔹 Fun Facts
 - I experiment a lot with **AI + coding**
 - I build projects even if they only exist in my head at first
@@ -15,17 +21,10 @@ If an idea hits me, I’ll prototype it, break it, rebuild it, and ship it.
 
 **Languages**
 - Python
-- TypeScript
+- JavaScript
 - HTML/CSS
 
 **Other**
-- Automation
-- Scripting
-- Linux User!
-
----
-
-## 📈 GitHub Stats
-
-### 🏆 Achievements / Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rickygooner-bit&theme=tokyonight&row=1&column=6&margin-w=10&margin-h=10)
+- Hack Clients
+- Minecraft Cheats
+- and a Dedicated Linux User! 🐧
